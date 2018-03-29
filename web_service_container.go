@@ -38,3 +38,4 @@ func RegisteredWebServices() []*WebService {
 	return DefaultContainer.RegisteredWebServices()
 }
 new1
+new2
