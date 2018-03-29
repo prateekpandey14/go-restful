@@ -74,3 +74,4 @@ Type ```git shortlog -s``` for a full list of contributors.
 
 © 2012 - 2017, http://ernestmicklei.com. MIT License. Contributions are welcome.
 Test 1
+test2
