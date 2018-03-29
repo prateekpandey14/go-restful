@@ -37,3 +37,4 @@ func Filter(filter FilterFunction) {
 func RegisteredWebServices() []*WebService {
 	return DefaultContainer.RegisteredWebServices()
 }
+new1
